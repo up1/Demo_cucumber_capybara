@@ -5,7 +5,7 @@ Instruction
     git clone https://github.com/up1/Demo_cucumber_capybara.git
     cd Demo_cucumber_capybara
     bundle install
-    bundle exec cucumber
+    cucumber features
 	
 If you not install gem bundler
 	
