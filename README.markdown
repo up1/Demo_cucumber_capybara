@@ -26,4 +26,4 @@ Which should produce output that looks something like:
     0m4.550s
 
     
-The project is currently configured to use `:selenium` as the default driver, but that can be changed in `/features/support/env.rb`.
+The project is currently configured to use `:selenium` as the default driver, but can change in `/features/support/env.rb`.
